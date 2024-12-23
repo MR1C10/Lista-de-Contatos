@@ -1,0 +1,42 @@
+C:\Users\mauri\OneDrive\Área de Trabalho\-\ListaDeContatos\ListaDeContatos\bin\Debug\net8.0\ListaDeContatos.exe
+C:\Users\mauri\OneDrive\Área de Trabalho\-\ListaDeContatos\ListaDeContatos\bin\Debug\net8.0\ListaDeContatos.deps.json
+C:\Users\mauri\OneDrive\Área de Trabalho\-\ListaDeContatos\ListaDeContatos\bin\Debug\net8.0\ListaDeContatos.runtimeconfig.json
+C:\Users\mauri\OneDrive\Área de Trabalho\-\ListaDeContatos\ListaDeContatos\bin\Debug\net8.0\ListaDeContatos.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\-\ListaDeContatos\ListaDeContatos\bin\Debug\net8.0\ListaDeContatos.pdb
+C:\Users\mauri\OneDrive\Área de Trabalho\-\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\OneDrive\Área de Trabalho\-\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.AssemblyInfoInputs.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\-\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.AssemblyInfo.cs
+C:\Users\mauri\OneDrive\Área de Trabalho\-\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.csproj.CoreCompileInputs.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\-\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\-\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\refint\ListaDeContatos.dll
+C:\Users\mauri\OneDrive\Área de Trabalho\-\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.pdb
+C:\Users\mauri\OneDrive\Área de Trabalho\-\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.genruntimeconfig.cache
+C:\Users\mauri\OneDrive\Área de Trabalho\-\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ref\ListaDeContatos.dll
+E:\ListaDeContatos\ListaDeContatos\bin\Debug\net8.0\ListaDeContatos.exe
+E:\ListaDeContatos\ListaDeContatos\bin\Debug\net8.0\ListaDeContatos.deps.json
+E:\ListaDeContatos\ListaDeContatos\bin\Debug\net8.0\ListaDeContatos.runtimeconfig.json
+E:\ListaDeContatos\ListaDeContatos\bin\Debug\net8.0\ListaDeContatos.dll
+E:\ListaDeContatos\ListaDeContatos\bin\Debug\net8.0\ListaDeContatos.pdb
+E:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.GeneratedMSBuildEditorConfig.editorconfig
+E:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.AssemblyInfoInputs.cache
+E:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.AssemblyInfo.cs
+E:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.csproj.CoreCompileInputs.cache
+E:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.dll
+E:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\refint\ListaDeContatos.dll
+E:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.pdb
+E:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.genruntimeconfig.cache
+E:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ref\ListaDeContatos.dll
+I:\ListaDeContatos\ListaDeContatos\bin\Debug\net8.0\ListaDeContatos.exe
+I:\ListaDeContatos\ListaDeContatos\bin\Debug\net8.0\ListaDeContatos.deps.json
+I:\ListaDeContatos\ListaDeContatos\bin\Debug\net8.0\ListaDeContatos.runtimeconfig.json
+I:\ListaDeContatos\ListaDeContatos\bin\Debug\net8.0\ListaDeContatos.dll
+I:\ListaDeContatos\ListaDeContatos\bin\Debug\net8.0\ListaDeContatos.pdb
+I:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.GeneratedMSBuildEditorConfig.editorconfig
+I:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.AssemblyInfoInputs.cache
+I:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.AssemblyInfo.cs
+I:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.csproj.CoreCompileInputs.cache
+I:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.dll
+I:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\refint\ListaDeContatos.dll
+I:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.pdb
+I:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ListaDeContatos.genruntimeconfig.cache
+I:\ListaDeContatos\ListaDeContatos\obj\Debug\net8.0\ref\ListaDeContatos.dll
