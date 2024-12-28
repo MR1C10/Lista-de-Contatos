@@ -1,6 +1,6 @@
 # Contact List
 <p>
-  This project in C# is a simple contact management application, allowing the user to add, view, edit, and delete contacts from a list. The goal is to provide a basic interface for interacting with contact data and demonstrate list manipulation concepts in C#.
+  This project in C# is a simple contact management application, allowing the user to add, view, edit,<br>and delete contacts from a list. The goal is to provide a basic interface for interacting with contact<br>data and demonstrate list manipulation concepts in C#.
 </p>
 Features
 Add Contact: The user can enter a name and a phone number to add a new contact to the list.
