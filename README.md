@@ -1,5 +1,3 @@
-# Lista-de-Contatos
-
 # Contact List
 This project in C# is a simple contact management application, allowing the user to add, view, edit, and delete contacts from a list. The goal is to provide a basic interface for interacting with contact data and demonstrate list manipulation concepts in C#.
 
